@@ -1,8 +1,0 @@
-.env
-credentials.json
-last_row.txt
-report_sent.txt
-day_start.txt
-__pycache__/
-*.pyc
-.DS_Store
